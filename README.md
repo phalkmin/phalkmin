@@ -1,42 +1,35 @@
 <h1 align="center">Hello there 👋, I'm Paulo H.</h1>
 <h3 align="center">WordPress Optimization Specialist | 15+ Years of Expertise as Tech Lead, Project Manager, and Professional Solution-Maker</h3>
 
-As a seasoned web technology and digital strategy enthusiast, with a robust foundation in both the technical and creative aspects of this domain, I've dedicated more than 15 years to fine-tuning my craft. My path has been marked by the successful development of solutions for various websites, blogs, and comprehensive portals, serving a diverse clientele that spans both local Brazilian markets and the global stage.
+As a seasoned web technology and digital strategy enthusiast my path has been marked by the successful development of solutions for various websites, blogs, and comprehensive portals, serving a diverse clientele that spans both local Brazilian markets and the global stage. I believe that knowledge should be free - [Let's Talk!](mailto:phalkmin@protonmail.com)
+
 
 ### Carving a Niche in IT and Project Management :computer:
 
-Navigating the start-up sector has honed my leadership abilities, especially concerning technology, social media, and product management. I've become adept at crafting from scratch, and leading multidisciplinary teams to bring innovative digital business ideas to life. It's not just about starting projects; it's about guiding them to scale with a balanced touch of strategy and execution.
+```python
 
-Being at the helm of international teams, I've learned the importance of a clear vision and the decisive momentum needed to drive high-performing groups forward. Staying updated and adaptable in an industry that's always on the move has been my mantra - learn fast, act faster. It's all part of my commitment to not just meeting but surpassing client expectations.
+phalkmin = {
+    "currently_learning": ["LLMs", "Go", "Cooking"],
+    "open_for_collaboration": {"project": "InfogrAIphify", "url": "https://github.com/phalkmin/InfogrAIphify"},
+    "portfolio": "https://phalkmin.me",
+    "writeups": "https://medium.com/@phalkmin",
+    "talk_to_me_about": ["WordPress", "PHP", "Tech Leadership", "Challenging bosses in Souls games"],
+    "professional_timeline": "https://www.linkedin.com/in/phalkmin/",
+    "did_you_know": "Achieved Platinum in all Souls games, including Sekiro 🥷🏽",
+    "expertise": ["WordPress", "SEO", "Social Media", "Blogging", "Web Analytics", "Project Management", "UX", "Tech Writing"],
+    "coding_skills": ["PHP", "Python", "JavaScript", "HTML", "CSS"],
+    "tech_stack": ["WordPress", "WooCommerce", "AWS", "SCRUM"],
+}
 
-💡 Dynamic Digital Strategy:
+skills_interests = {
+    "web_development": ["WordPress", "PHP", "HTML", "CSS"],
+    "programming_languages": ["Python", "JavaScript"],
+    "tools_technologies": ["WooCommerce", "AWS", "SCRUM"],
+    "content_creation": ["SEO", "Social Media", "Blogging", "Tech Writing"],
+    "project_management": ["Project Planning", "Coordination", "Execution"]
+}                  
 
-Developing sites that are not simply present online but shine brilliantly through clever SEO and engaging content.
-Crafting fast, dependable websites that visitors love to explore and revisit.
-
-🛠 Tech Toolkit:
-
-Diverse technical skills across PHP, CSS, HTML, MySQL, JavaScript, NodeJS, ReactJS, and GatsbyJS. An artisan with WordPress, weaving plugins, and stitching up solutions to fit precise needs. A knack for pioneering headless CMS practices, ensuring your projects stand the test of time.
-
-When I'm not busy optimizing WordPress sites or creating new small projects, I'm expanding my horizons - Cooking, IoT, AIs, and anything that grabs my attention.
-
-
-- 🌱 I’m currently learning **LLMs, Go, Cooking**
-
-- 🤝 I’m looking for help with [InfogrAIphify](https://github.com/phalkmin/InfogrAIphify)
-
-- 👨‍💻 All of my projects are available at [https://phalkmin.me](https://phalkmin.me)
-
-- 📝 I regularly write articles on [https://medium.com/@phalkmin](https://medium.com/@phalkmin)
-
-- 💬 Ask me about **WordPress, PHP, Tech Leading, hard bosses on Souls games**
-
-- 📫 How to reach me **phalkmin@protonmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/phalkmin/](https://www.linkedin.com/in/phalkmin/)
-
-- ⚡ Fun fact **Platinum on all *Souls games - including Sekiro 🥷🏽**
-
+```
 
 
 ### Blogs posts
