@@ -37,8 +37,8 @@ skills_interests = {
 - [InfogrAIphify: Create Infographics from Articles](https://dev.to/phalkmin/infograiphify-create-infographics-from-articles-5hhb)
 - [Choose Your Own AIdventure - A CloudFlare Challenge](https://dev.to/phalkmin/choose-your-own-aidventure-a-cloudflare-challenge-28nf)
 - [A quick and dirt way to make your site retroactively compatible with AVIF](https://dev.to/phalkmin/a-quick-and-dirt-way-to-make-your-site-retroactively-compatible-with-avif-4icb)
+- [A quick and dirt way to make your site retroactively compatible with AVIF](https://phalkmin.medium.com/a-quick-and-dirt-way-to-make-your-site-retroactively-compatible-with-avif-352829299afe?source=rss-e65db7a89e3e------2)
 - [Why you should have a home server](https://dev.to/phalkmin/why-you-should-have-a-home-server-34i4)
-- [What to do in tech after 20 years?](https://dev.to/phalkmin/what-to-do-in-tech-after-20-years-dbb)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
