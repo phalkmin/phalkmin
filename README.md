@@ -34,7 +34,7 @@ skills_interests = {
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Meet Auty, a bot designed to support and guide autistic individuals on Coze](https://dev.to/phalkmin/meet-auty-a-bot-designed-to-support-and-guide-autistic-individuals-on-coze-l5f)
+- [Meet Auty, a bot designed to support and guide autistic individuals - on Coze](https://dev.to/phalkmin/meet-auty-a-bot-designed-to-support-and-guide-autistic-individuals-on-coze-l5f)
 - [InfogrAIphify: Create Infographics from Articles](https://dev.to/phalkmin/infograiphify-create-infographics-from-articles-5hhb)
 - [Choose Your Own AIdventure - A CloudFlare Challenge](https://dev.to/phalkmin/choose-your-own-aidventure-a-cloudflare-challenge-28nf)
 - [A quick and dirt way to make your site retroactively compatible with AVIF](https://dev.to/phalkmin/a-quick-and-dirt-way-to-make-your-site-retroactively-compatible-with-avif-4icb)
