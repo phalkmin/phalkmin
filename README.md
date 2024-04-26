@@ -34,11 +34,11 @@ skills_interests = {
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [InfogrAIphify - a Coze workflow](https://dev.to/phalkmin/infograiphify-a-coze-workflow-1k39)
 - [From College to Work: How to Build an Online Advantage and Ace Your First Tech Job Interview](https://dev.to/phalkmin/from-college-to-work-how-to-build-an-online-advantageand-ace-your-first-tech-job-interview-4pk5)
 - [Meet Auty, a bot designed to support and guide autistic individuals - on Coze](https://dev.to/phalkmin/meet-auty-a-bot-designed-to-support-and-guide-autistic-individuals-on-coze-l5f)
 - [InfogrAIphify: Create Infographics from Articles](https://dev.to/phalkmin/infograiphify-create-infographics-from-articles-5hhb)
 - [Choose Your Own AIdventure - A CloudFlare Challenge](https://dev.to/phalkmin/choose-your-own-aidventure-a-cloudflare-challenge-28nf)
-- [A quick and dirt way to make your site retroactively compatible with AVIF](https://dev.to/phalkmin/a-quick-and-dirt-way-to-make-your-site-retroactively-compatible-with-avif-4icb)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
