@@ -36,9 +36,9 @@ skills_interests = {
 <!-- BLOG-POST-LIST:START -->
 - [How learning about the art of sushi made me a better dev](https://dev.to/phalkmin/how-learning-about-the-art-of-sushi-made-me-a-better-dev-700)
 - [Sometimes Your Home Server Needs More Power](https://dev.to/phalkmin/sometimes-your-home-server-needs-more-power-1cl8)
-- [It&#39;s Time To Stop Being a Digital Tenant And Own Our Social Media Presence](https://phalkmin.medium.com/its-time-to-stop-being-a-digital-tenant-and-own-our-social-media-presence-ed7769e40402?source=rss-e65db7a89e3e------2)
 - [Retro’ing and Debugging 2024](https://dev.to/phalkmin/retroing-and-debugging-2024-4a7l)
 - [Do you have a &quot;Wait, that can&#39;t be right...&quot; moment?](https://dev.to/phalkmin/do-you-have-a-wait-that-cant-be-right-moment-49k8)
+- [InfogrAIphify - a Coze workflow](https://dev.to/phalkmin/infograiphify-a-coze-workflow-1k39)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
