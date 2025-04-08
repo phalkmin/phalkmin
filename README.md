@@ -35,10 +35,10 @@ skills_interests = {
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [From Left-Handed to Left Behind](https://dev.to/phalkmin/from-left-handed-to-left-behind-3d7)
+- [Uma Tapioca, uma simples tapioca](https://phalkmin.medium.com/uma-tapioca-uma-simples-tapioca-2722ad8e293b?source=rss-e65db7a89e3e------2)
 - [It&#39;s so cool to live in the future. I hope we can go back to it](https://dev.to/phalkmin/its-so-cool-to-live-in-the-future-i-hope-we-can-go-back-to-it-56b0)
 - [How learning about the art of sushi made me a better dev](https://dev.to/phalkmin/how-learning-about-the-art-of-sushi-made-me-a-better-dev-700)
 - [Sometimes Your Home Server Needs More Power](https://dev.to/phalkmin/sometimes-your-home-server-needs-more-power-1cl8)
-- [Retro’ing and Debugging 2024](https://dev.to/phalkmin/retroing-and-debugging-2024-4a7l)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
