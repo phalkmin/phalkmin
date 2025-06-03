@@ -36,9 +36,9 @@ skills_interests = {
 <!-- BLOG-POST-LIST:START -->
 - [From Frustration to Feature: The Open Source Magic](https://dev.to/phalkmin/from-frustration-to-feature-the-open-source-magic-1e1b)
 - [From Left-Handed to Left Behind](https://dev.to/phalkmin/from-left-handed-to-left-behind-3d7)
+- [Uma Tapioca, uma simples tapioca](https://phalkmin.medium.com/uma-tapioca-uma-simples-tapioca-2722ad8e293b?source=rss-e65db7a89e3e------2)
 - [It&#39;s so cool to live in the future. I hope we can go back to it](https://dev.to/phalkmin/its-so-cool-to-live-in-the-future-i-hope-we-can-go-back-to-it-56b0)
 - [How learning about the art of sushi made me a better dev](https://dev.to/phalkmin/how-learning-about-the-art-of-sushi-made-me-a-better-dev-700)
-- [Sometimes Your Home Server Needs More Power](https://dev.to/phalkmin/sometimes-your-home-server-needs-more-power-1cl8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
