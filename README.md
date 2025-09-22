@@ -35,10 +35,10 @@ skills_interests = {
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [WP-AutoInsight 3.0: Why This WordPress AI plugin will change how you create content](https://phalkmin.medium.com/wp-autoinsight-3-0-why-this-wordpress-ai-plugin-will-change-how-you-create-content-f6f4f65784e4?source=rss-e65db7a89e3e------2)
+- [From Frustration to Feature: The Open Source Magic](https://dev.to/phalkmin/from-frustration-to-feature-the-open-source-magic-1e1b)
+- [From Left-Handed to Left Behind](https://dev.to/phalkmin/from-left-handed-to-left-behind-3d7)
 - [Uma Tapioca, uma simples tapioca](https://phalkmin.medium.com/uma-tapioca-uma-simples-tapioca-2722ad8e293b?source=rss-e65db7a89e3e------2)
-- [It&#39;s Time To Stop Being a Digital Tenant And Own Our Social Media Presence](https://phalkmin.medium.com/its-time-to-stop-being-a-digital-tenant-and-own-our-social-media-presence-ed7769e40402?source=rss-e65db7a89e3e------2)
-- [A quick and dirt way to make your site retroactively compatible with AVIF](https://phalkmin.medium.com/a-quick-and-dirt-way-to-make-your-site-retroactively-compatible-with-avif-352829299afe?source=rss-e65db7a89e3e------2)
-- [Turn &lpar;almost&rpar; any webpage into stunning infographics with this Python script!](https://phalkmin.medium.com/turn-almost-any-webpage-into-stunning-infographics-with-this-python-script-b5dd8251c907?source=rss-e65db7a89e3e------2)
+- [It&#39;s so cool to live in the future. I hope we can go back to it](https://dev.to/phalkmin/its-so-cool-to-live-in-the-future-i-hope-we-can-go-back-to-it-56b0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
