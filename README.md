@@ -34,11 +34,11 @@ skills_interests = {
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Não, a &quot;Lei Felca&quot; não proíbe o Linux.](https://phalkmin.medium.com/n%C3%A3o-a-lei-felca-n%C3%A3o-pro%C3%ADbe-o-linux-2f09225919ad?source=rss-e65db7a89e3e------2)
 - [With Gemini CLI, I&#39;m able to keep my pet projects alive and kicking](https://dev.to/phalkmin/with-gemini-cli-im-able-to-keep-my-pet-projects-alive-and-kicking-2fll)
 - [WP-AutoInsight 3.0: Why This WordPress AI plugin will change how you create content](https://phalkmin.medium.com/wp-autoinsight-3-0-why-this-wordpress-ai-plugin-will-change-how-you-create-content-f6f4f65784e4?source=rss-e65db7a89e3e------2)
 - [From Frustration to Feature: The Open Source Magic](https://dev.to/phalkmin/from-frustration-to-feature-the-open-source-magic-1e1b)
 - [From Left-Handed to Left Behind](https://dev.to/phalkmin/from-left-handed-to-left-behind-3d7)
-- [Uma Tapioca, uma simples tapioca](https://phalkmin.medium.com/uma-tapioca-uma-simples-tapioca-2722ad8e293b?source=rss-e65db7a89e3e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
