@@ -34,11 +34,11 @@ skills_interests = {
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [When Your UX Only Fits Two Sizes](https://dev.to/phalkmin/when-your-ux-only-fits-two-sizes-3a1e)
 - [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243)
 - [Tá, mas como exatamente o Linux poderia ser bloqueado no Brasil &lpar;e por que isso dificilmente vai…](https://phalkmin.medium.com/t%C3%A1-mas-como-exatamente-o-linux-poderia-ser-bloqueado-no-brasil-e-por-que-isso-dificilmente-vai-ccf00377eeb3?source=rss-e65db7a89e3e------2)
 - [No, Brazil&#39;s &quot;Felca Law&quot; doesn&#39;t ban Linux](https://dev.to/phalkmin/no-brazils-felca-law-doesnt-ban-linux-4jj0)
 - [Não, a &quot;Lei Felca&quot; não proíbe o Linux.](https://phalkmin.medium.com/n%C3%A3o-a-lei-felca-n%C3%A3o-pro%C3%ADbe-o-linux-2f09225919ad?source=rss-e65db7a89e3e------2)
-- [With Gemini CLI, I&#39;m able to keep my pet projects alive and kicking](https://dev.to/phalkmin/with-gemini-cli-im-able-to-keep-my-pet-projects-alive-and-kicking-2fll)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
