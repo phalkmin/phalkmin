@@ -34,11 +34,11 @@ skills_interests = {
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [So, what am I doing after 22 years in tech?](https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic)
 - [O Linux resolveu o problema do “código feito por IA” em uma página](https://phalkmin.medium.com/o-linux-resolveu-o-problema-do-c%C3%B3digo-feito-por-ia-em-uma-p%C3%A1gina-44f33cc5526f?source=rss-e65db7a89e3e------2)
 - [Linux Solved the &quot;AI Code&quot; Problem in One Page](https://dev.to/phalkmin/linux-solved-the-ai-code-problem-in-one-page-4i3l)
 - [Um homem almoça](https://phalkmin.medium.com/um-homem-almo%C3%A7a-aa51e5f523f2?source=rss-e65db7a89e3e------2)
 - [When Your UX Only Fits Two Sizes](https://dev.to/phalkmin/when-your-ux-only-fits-two-sizes-3a1e)
-- [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
