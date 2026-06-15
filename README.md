@@ -34,11 +34,11 @@ skills_interests = {
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Sobre o caso Elo7: o que acontece quando você é despejado digitalmente?](https://phalkmin.medium.com/sobre-o-caso-elo7-o-que-acontece-quando-voc%C3%AA-%C3%A9-despejado-digitalmente-e4c01e87b047?source=rss-e65db7a89e3e------2)
 - [AI Bots Are Driving Up Your Hosting Bill. I have a WordPress fix](https://dev.to/phalkmin/ai-bots-are-driving-up-your-hosting-bill-i-have-a-wordpress-fix-7ih)
 - [Age verification is coming. Free Software can build it right.](https://dev.to/phalkmin/age-verification-is-coming-free-software-can-build-it-right-1lh5)
 - [O ECA Digital não proíbe o Linux. O problema é outro.](https://phalkmin.medium.com/o-eca-digital-n%C3%A3o-pro%C3%ADbe-o-linux-o-problema-%C3%A9-outro-5096ff0b16e1?source=rss-e65db7a89e3e------2)
 - [Sobre Burnout, escala 6x1 e o retrocesso do trabalho remoto](https://phalkmin.medium.com/sobre-burnout-escala-6x1-e-o-retrocesso-do-trabalho-remoto-63d99bbc6bc6?source=rss-e65db7a89e3e------2)
-- [So, what am I doing after 22 years in tech?](https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
