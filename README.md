@@ -34,11 +34,11 @@ skills_interests = {
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI is a gacha game with no pity system](https://dev.to/phalkmin/generative-ai-is-a-gacha-game-with-no-pity-system-38in)
 - [I burned through thousands of AI tokens. Then a friend did it for free](https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8)
 - [Sobre o caso Elo7: o que acontece quando você é despejado digitalmente?](https://phalkmin.medium.com/sobre-o-caso-elo7-o-que-acontece-quando-voc%C3%AA-%C3%A9-despejado-digitalmente-e4c01e87b047?source=rss-e65db7a89e3e------2)
 - [AI Bots Are Driving Up Your Hosting Bill. I have a WordPress fix](https://dev.to/phalkmin/ai-bots-are-driving-up-your-hosting-bill-i-have-a-wordpress-fix-7ih)
 - [Age verification is coming. Free Software can build it right.](https://dev.to/phalkmin/age-verification-is-coming-free-software-can-build-it-right-1lh5)
-- [O ECA Digital não proíbe o Linux. O problema é outro.](https://phalkmin.medium.com/o-eca-digital-n%C3%A3o-pro%C3%ADbe-o-linux-o-problema-%C3%A9-outro-5096ff0b16e1?source=rss-e65db7a89e3e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
