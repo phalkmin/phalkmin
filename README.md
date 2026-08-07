@@ -34,11 +34,11 @@ skills_interests = {
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Não, o software da urna eletrônica não é um mistério a ser desvendado](https://phalkmin.medium.com/software-da-urna-eletronica-nao-tem-misterio-56e650320b53?source=rss-e65db7a89e3e------2)
 - [A armadilha estatística dos anúncios feitos com IA](https://phalkmin.medium.com/a-armadilha-estat%C3%ADstica-dos-an%C3%BAncios-feitos-com-ia-01467e7d4df9?source=rss-e65db7a89e3e------2)
 - [Generative AI is a gacha game with no pity system](https://dev.to/phalkmin/generative-ai-is-a-gacha-game-with-no-pity-system-38in)
 - [I burned through thousands of AI tokens. Then a friend did it for free](https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8)
 - [Sobre o caso Elo7: o que acontece quando você é despejado digitalmente?](https://phalkmin.medium.com/sobre-o-caso-elo7-o-que-acontece-quando-voc%C3%AA-%C3%A9-despejado-digitalmente-e4c01e87b047?source=rss-e65db7a89e3e------2)
-- [AI Bots Are Driving Up Your Hosting Bill. I have a WordPress fix](https://dev.to/phalkmin/ai-bots-are-driving-up-your-hosting-bill-i-have-a-wordpress-fix-7ih)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
