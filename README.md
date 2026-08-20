@@ -34,11 +34,11 @@ skills_interests = {
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [So, how are we doing?](https://dev.to/phalkmin/so-how-are-we-doing-1fk8)
 - [O algoritmo só entrega a mentira que você já queria receber](https://phalkmin.medium.com/rashomon-e-o-algoritmo-6c88e34f9d2f?source=rss-e65db7a89e3e------2)
 - [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
 - [Não, o software da urna eletrônica não é um mistério a ser desvendado](https://phalkmin.medium.com/software-da-urna-eletronica-nao-tem-misterio-56e650320b53?source=rss-e65db7a89e3e------2)
 - [A armadilha estatística dos anúncios feitos com IA](https://phalkmin.medium.com/a-armadilha-estat%C3%ADstica-dos-an%C3%BAncios-feitos-com-ia-01467e7d4df9?source=rss-e65db7a89e3e------2)
-- [Generative AI is a gacha game with no pity system](https://dev.to/phalkmin/generative-ai-is-a-gacha-game-with-no-pity-system-38in)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
