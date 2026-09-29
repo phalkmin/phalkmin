@@ -34,11 +34,11 @@ skills_interests = {
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I couldn&#39;t find a good Google Trends MCP. So I just built one](https://dev.to/phalkmin/i-couldnt-find-a-good-google-trends-mcp-so-i-just-built-one-307g)
 - [Na discussão entre &quot;jornalzinho&quot; e &quot;sitezinho&quot;, esquecemos do leitor](https://phalkmin.medium.com/discussao-jornalzinho-e-sitezinho-12409475167e?source=rss-e65db7a89e3e------2)
 - [So, how are we doing?](https://dev.to/phalkmin/so-how-are-we-doing-1fk8)
 - [O algoritmo só entrega a mentira que você já queria receber](https://phalkmin.medium.com/rashomon-e-o-algoritmo-6c88e34f9d2f?source=rss-e65db7a89e3e------2)
 - [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
-- [Não, o software da urna eletrônica não é um mistério a ser desvendado](https://phalkmin.medium.com/software-da-urna-eletronica-nao-tem-misterio-56e650320b53?source=rss-e65db7a89e3e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
