@@ -1,61 +1,63 @@
-<h1 align="center">Hello there 👋, I'm Paulo H.</h1>
-<h3 align="center">WordPress Optimization Specialist | 15+ Years of Expertise as Tech Lead, Project Manager, and Professional Solution-Maker</h3>
+# Paulo H. Alkmin
 
-As a seasoned web technology and digital strategy enthusiast my path has been marked by the successful development of solutions for various websites, blogs, and comprehensive portals, serving a diverse clientele that spans both local Brazilian markets and the global stage. I believe that knowledge should be free - [Let's Talk!](mailto:phalkmin@protonmail.com)
+![Paulo H. Alkmin — Independent AI & WordPress consultant based in São Paulo, Brazil](assets/og-image.png)
 
 
-### Carving a Niche in IT and Project Management :computer:
+Independent AI & WordPress consultant based in São Paulo, Brazil. I build WordPress plugins, MCP servers, RAG pipelines and n8n automations, and I care most about what happens to them after the demo.
 
-```python
+I've worked on production systems since 2001 and built WordPress sites since 2006. Most of my work now is fitting LLMs into systems that already exist (a WooCommerce store, an editorial workflow, a support queue) without breaking the parts that already worked.
 
-phalkmin = {
-    "currently_learning": ["LLMs", "Go", "Cooking"],
-    "open_for_collaboration": {"project": "InfogrAIphify", "url": "https://github.com/phalkmin/InfogrAIphify"},
-    "portfolio": "https://phalkmin.me",
-    "writeups": "https://medium.com/@phalkmin",
-    "talk_to_me_about": ["WordPress", "PHP", "Tech Leadership", "Challenging bosses in Souls games"],
-    "professional_timeline": "https://www.linkedin.com/in/phalkmin/",
-    "did_you_know": "Achieved Platinum in all Souls games, including Sekiro 🥷🏽",
-    "expertise": ["WordPress", "SEO", "Social Media", "Blogging", "Web Analytics", "Project Management", "UX", "Tech Writing"],
-    "coding_skills": ["PHP", "Python", "JavaScript", "HTML", "CSS"],
-    "tech_stack": ["WordPress", "WooCommerce", "AWS", "SCRUM"],
-}
+**Site:** [phalkmin.me](https://phalkmin.me/) · **Writing:** [dev.to/phalkmin](https://dev.to/phalkmin) · **LinkedIn:** [in/phalkmin](https://www.linkedin.com/in/phalkmin/)
 
-skills_interests = {
-    "web_development": ["WordPress", "PHP", "HTML", "CSS"],
-    "programming_languages": ["Python", "JavaScript"],
-    "tools_technologies": ["WooCommerce", "AWS", "SCRUM"],
-    "content_creation": ["SEO", "Social Media", "Blogging", "Tech Writing"],
-    "project_management": ["Project Planning", "Coordination", "Execution"]
-}                  
+## Open source I maintain
 
+| Project | What it does | Where to get it |
+|---|---|---|
+| [**WP-AutoInsight**](https://github.com/phalkmin/WP-AutoInsight) | WordPress plugin that writes blog posts with OpenAI, Claude, Gemini or Perplexity. 6,000+ downloads on WordPress.org, where it's listed as *Automated Blog Content Creator*. | [WordPress.org](https://wordpress.org/plugins/automated-blog-content-creator/) · [Docs](https://wpautoinsight.phalkmin.me/) |
+| [**ParseLess**](https://github.com/phalkmin/parseless) | Serves WordPress content as clean Markdown to AI crawlers and on `?format=md` requests, and publishes `/llms.txt`. On one page I measured, ~19,800 tokens of HTML came down to ~975 tokens of actual content. 1,200+ downloads. | [WordPress.org](https://wordpress.org/plugins/parseless/) · [Project page](https://phalkmin.me/en/parseless-wordpress-plugin/) |
+| [**trendzeist-mcp**](https://github.com/phalkmin/trendzeist-mcp) | Local MCP server that gives Claude, Cursor and VS Code ranked Google Trends topics, the questions people search for, interest curves and regional demand. No API key, no account. Python, MIT. | [PyPI](https://pypi.org/project/trendzeist-mcp/) · [Project page](https://phalkmin.me/en/trendzeist-google-trends-mcp/) |
+
+Quick try for the MCP server:
+
+```bash
+claude mcp add trendzeist -- uvx trendzeist-mcp
 ```
 
+## Smaller things and challenge entries
 
-### Blogs posts
+- [**Choose Your AIdventure**](https://github.com/phalkmin/chooseyourAIdventure): a retro text RPG where Cloudflare Workers AI writes the story and draws each scene. Built for the Cloudflare AI Challenge, later revived with Gemini CLI ([play it](https://choose.phalkmin.me/)).
+- [**InfogrAIphify**](https://github.com/phalkmin/InfogrAIphify): give it an article URL, get an infographic back. The original is a Python script; there's also a [Next.js + Cloudflare edition](https://github.com/phalkmin/InfogrAIphify-nodejs-edition) that runs on free models.
+- [**Auty**](https://dev.to/phalkmin/meet-auty-a-bot-designed-to-support-and-guide-autistic-individuals-on-coze-l5f): a Coze bot designed to support autistic people. Won "Most Creative" in DEV's Coze AI Bot Challenge.
+- [**SEO AI Toolbox**](https://seo.phalkmin.me/): six small OpenAI-powered SEO tools I started in 2023 to see what the API could actually do. Still running.
+- [**customizable-konami-code**](https://github.com/phalkmin/customizable-konami-code): a WordPress plugin for hiding an easter egg behind ↑↑↓↓←→←→BA. My site has one too.
+
+## Track record
+
+- "Most Creative" prize, Coze AI Bot Challenge on DEV (2024)
+- One of five winners of the [Built with Google Gemini Writing Challenge](https://dev.to/phalkmin/with-gemini-cli-im-able-to-keep-my-pet-projects-alive-and-kicking-2fll) on DEV (2026)
+- Author of [*Samba: Windows e Linux em rede*](https://www.amazon.com.br/Samba-Windows-Linux-em-rede/dp/8561024267/) (2010), a book on Linux/Windows networking
+- Nearly four years as a writer at Tecnoblog, one of Brazil's largest tech publications
+- 24,000+ followers on Dev.to
+
+## What I can help with
+
+If one of these repos looks like the kind of problem you have, this is the paid version of it:
+
+- [RAG systems](https://phalkmin.me/en/rag-systems-consultant/) for support bots and internal knowledge bases
+- [AI architecture consulting](https://phalkmin.me/en/ai-architecture-consulting/) for teams moving an LLM feature past the prototype
+- [n8n automation](https://phalkmin.me/en/n8n-automation-consulting/) for e-commerce operations
+- [WordPress AI integration](https://phalkmin.me/en/wordpress-ai-integration/) and [WordPress engineering](https://phalkmin.me/en/wordpress-services/) (performance, migrations, WooCommerce)
+- [Fractional CTO](https://phalkmin.me/en/fractional-cto-ai/) work when you need senior technical decisions without a full-time hire
+
+The first step is a free 30-minute [Intro Call](https://calendly.com/phalkmin/letstalk) to see if it's a fit. If you'd rather write first, [send me your scope](https://phalkmin.me/#contact).
+
+**Em português:** também atendo em português, com cliente no Brasil e fora dele. O site tem versão completa em [phalkmin.me/br](https://phalkmin.me/br/).
+
+## Recent posts
+
 <!-- BLOG-POST-LIST:START -->
-- [Do you have a &quot;Wait, that can&#39;t be right...&quot; moment?](https://dev.to/phalkmin/do-you-have-a-wait-that-cant-be-right-moment-49k8)
-- [InfogrAIphify - a Coze workflow](https://dev.to/phalkmin/infograiphify-a-coze-workflow-1k39)
-- [From College to Work: How to Build an Online Advantage and Ace Your First Tech Job Interview](https://dev.to/phalkmin/from-college-to-work-how-to-build-an-online-advantageand-ace-your-first-tech-job-interview-4pk5)
-- [Meet Auty, a bot designed to support and guide autistic individuals - on Coze](https://dev.to/phalkmin/meet-auty-a-bot-designed-to-support-and-guide-autistic-individuals-on-coze-l5f)
-- [InfogrAIphify: Create Infographics from Articles](https://dev.to/phalkmin/infograiphify-create-infographics-from-articles-5hhb)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/phalkmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="phalkmin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/phalkmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phalkmin" height="30" width="40" /></a>
-<a href="https://medium.com/@phalkmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@phalkmin" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/https://ko-fi.com/phalkmin"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/phalkmin" /></a></p>
-
-<details>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phalkmin" alt="phalkmin" /></a> </p></details>
+Off the clock: I have the Platinum trophy in every Souls game, Sekiro included. If you want to argue about the hardest boss, I'm around. [Ko-fi](https://ko-fi.com/phalkmin) if any of the plugins saved you an afternoon.
