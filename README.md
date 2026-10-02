@@ -2,7 +2,6 @@
 
 ![Paulo H. Alkmin — Independent AI & WordPress consultant based in São Paulo, Brazil](assets/og-image.png)
 
-
 Independent AI & WordPress consultant based in São Paulo, Brazil. I build WordPress plugins, MCP servers, RAG pipelines and n8n automations, and I care most about what happens to them after the demo.
 
 I've worked on production systems since 2001 and built WordPress sites since 2006. Most of my work now is fitting LLMs into systems that already exist (a WooCommerce store, an editorial workflow, a support queue) without breaking the parts that already worked.
@@ -11,11 +10,11 @@ I've worked on production systems since 2001 and built WordPress sites since 200
 
 ## Open source I maintain
 
-| Project | What it does | Where to get it |
-|---|---|---|
-| [**WP-AutoInsight**](https://github.com/phalkmin/WP-AutoInsight) | WordPress plugin that writes blog posts with OpenAI, Claude, Gemini or Perplexity. 6,000+ downloads on WordPress.org, where it's listed as *Automated Blog Content Creator*. | [WordPress.org](https://wordpress.org/plugins/automated-blog-content-creator/) · [Docs](https://wpautoinsight.phalkmin.me/) |
-| [**ParseLess**](https://github.com/phalkmin/parseless) | Serves WordPress content as clean Markdown to AI crawlers and on `?format=md` requests, and publishes `/llms.txt`. On one page I measured, ~19,800 tokens of HTML came down to ~975 tokens of actual content. 1,200+ downloads. | [WordPress.org](https://wordpress.org/plugins/parseless/) · [Project page](https://phalkmin.me/en/parseless-wordpress-plugin/) |
-| [**trendzeist-mcp**](https://github.com/phalkmin/trendzeist-mcp) | Local MCP server that gives Claude, Cursor and VS Code ranked Google Trends topics, the questions people search for, interest curves and regional demand. No API key, no account. Python, MIT. | [PyPI](https://pypi.org/project/trendzeist-mcp/) · [Project page](https://phalkmin.me/en/trendzeist-google-trends-mcp/) |
+| Project                                                          | What it does                                                                                                                                                                                                                    | Where to get it                                                                                                                |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [**WP-AutoInsight**](https://github.com/phalkmin/WP-AutoInsight) | WordPress plugin that writes blog posts with OpenAI, Claude, Gemini or Perplexity. 6,000+ downloads on WordPress.org, where it's listed as _Automated Blog Content Creator_.                                                    | [WordPress.org](https://wordpress.org/plugins/automated-blog-content-creator/) · [Docs](https://wpautoinsight.phalkmin.me/)    |
+| [**ParseLess**](https://github.com/phalkmin/parseless)           | Serves WordPress content as clean Markdown to AI crawlers and on `?format=md` requests, and publishes `/llms.txt`. On one page I measured, ~19,800 tokens of HTML came down to ~975 tokens of actual content. 1,200+ downloads. | [WordPress.org](https://wordpress.org/plugins/parseless/) · [Project page](https://phalkmin.me/en/parseless-wordpress-plugin/) |
+| [**trendzeist-mcp**](https://github.com/phalkmin/trendzeist-mcp) | Local MCP server that gives Claude, Cursor and VS Code ranked Google Trends topics, the questions people search for, interest curves and regional demand. No API key, no account. Python, MIT.                                  | [PyPI](https://pypi.org/project/trendzeist-mcp/) · [Project page](https://phalkmin.me/en/trendzeist-google-trends-mcp/)        |
 
 Quick try for the MCP server:
 
@@ -35,7 +34,7 @@ claude mcp add trendzeist -- uvx trendzeist-mcp
 
 - "Most Creative" prize, Coze AI Bot Challenge on DEV (2024)
 - One of five winners of the [Built with Google Gemini Writing Challenge](https://dev.to/phalkmin/with-gemini-cli-im-able-to-keep-my-pet-projects-alive-and-kicking-2fll) on DEV (2026)
-- Author of [*Samba: Windows e Linux em rede*](https://www.amazon.com.br/Samba-Windows-Linux-em-rede/dp/8561024267/) (2010), a book on Linux/Windows networking
+- Author of [_Samba: Windows e Linux em rede_](https://www.amazon.com.br/Samba-Windows-Linux-em-rede/dp/8561024267/) (2010), a book on Linux/Windows networking
 - Nearly four years as a writer at Tecnoblog, one of Brazil's largest tech publications
 - 24,000+ followers on Dev.to
 
@@ -56,6 +55,12 @@ The first step is a free 30-minute [Intro Call](https://calendly.com/phalkmin/le
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+
+- [I couldn&#39;t find a good Google Trends MCP. So I just built one](https://dev.to/phalkmin/i-couldnt-find-a-good-google-trends-mcp-so-i-just-built-one-307g)
+- [Na discussão entre &quot;jornalzinho&quot; e &quot;sitezinho&quot;, esquecemos do leitor](https://phalkmin.medium.com/discussao-jornalzinho-e-sitezinho-12409475167e?source=rss-e65db7a89e3e------2)
+- [So, how are we doing?](https://dev.to/phalkmin/so-how-are-we-doing-1fk8)
+- [O algoritmo só entrega a mentira que você já queria receber](https://phalkmin.medium.com/rashomon-e-o-algoritmo-6c88e34f9d2f?source=rss-e65db7a89e3e------2)
+- [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
