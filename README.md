@@ -55,7 +55,6 @@ The first step is a free 30-minute [Intro Call](https://calendly.com/phalkmin/le
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [I couldn&#39;t find a good Google Trends MCP. So I just built one](https://dev.to/phalkmin/i-couldnt-find-a-good-google-trends-mcp-so-i-just-built-one-307g)
 - [Na discussão entre &quot;jornalzinho&quot; e &quot;sitezinho&quot;, esquecemos do leitor](https://phalkmin.medium.com/discussao-jornalzinho-e-sitezinho-12409475167e?source=rss-e65db7a89e3e------2)
 - [So, how are we doing?](https://dev.to/phalkmin/so-how-are-we-doing-1fk8)
